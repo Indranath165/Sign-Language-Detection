@@ -39,7 +39,7 @@ To run the Sign language detector locally, follow these steps:
     <li>The camera will open, and you can perform hand signs in front of it. The application will detect and display the corresponding sign.</li>
 </ol>
 <h2>Custom Dataset</h2>
-The models were trained using a custom dataset of hand sign images, located in the <b>dataset</b> directory. The dataset includes diverse examples to improve the model's accuracy and generalization.
+The models were trained using a custom dataset of hand sign images, located in the <b>Image</b> directory. The dataset includes diverse examples to improve the model's accuracy and generalization.
 <h2>Note</h2>
 Make sure your camera is properly configured and accessible for real-time sign language detection.
 <br>
